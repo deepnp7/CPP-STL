@@ -1,5 +1,5 @@
 #include<iostream>
-#include<array> //header to run array stl
+#include<array>  //header to run array stl
 
 // STL array is based on basic array only
 
@@ -34,4 +34,4 @@ int main()
 															
 															
 															
-	*/
+  */
