@@ -25,12 +25,15 @@ int main()
    cout<<"Last element : "<<a.back()<<endl;  // prints last element
 }
 
+
   /*                           
-			                                                  
-			Time Complexity : a.at() ->  O(1)												  
-							  a.empty ->  O(1)								  
-							  a.front() ->  O(1)								  
-							  a.back() ->  O(1)								  
+  
+			Time Complexity 
+			
+			a.at() -> O(1)
+		        a.empty -> O(1)								  
+		        a.front() -> O(1)								  
+	        	a.back() -> O(1)								  
 															
 															
 															
