@@ -13,7 +13,7 @@ int main()
 	int size=a.size();  // returns the size of the array 
 	for (int i = 0; i < size; ++i)
 	{
-	   cout<<" "<<a[i];  // printing of array
+	  cout<<" "<<a[i];  // printing of array
 	}
      cout<<" \n Element at second index : "<<a.at(2)<<endl; // accessing an element from the array
      cout<<"empty or not ? -> "<<a.empty()<<endl;  // returns boolean value
