@@ -18,8 +18,8 @@ int main()
      cout<<" \n Element at second index : "<<a.at(2)<<endl; // accessing an element from the array
      cout<<"empty or not ? -> "<<a.empty()<<endl;  // returns boolean value
 
- cout<<"Element at third index : "<<a[2]<<endl; // returns the element at specific index using basic array method 
- cout<<"Element at fourth index : "<<a.at(4)<<endl; // returns the element at specific index using STL array method
+ cout<<"Element at third index : "<<a[2]<<endl; // returns the element at specific index using basic array method  
+  cout<<"Element at fourth index : "<<a.at(4)<<endl; // returns the element at specific index using STL array method
 
    cout<<"First element : "<<a.front()<<endl; // prints first element
    cout<<"Last element : "<<a.back()<<endl;  // prints last element
