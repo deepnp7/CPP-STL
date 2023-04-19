@@ -27,7 +27,7 @@ int main()
    swap(p_arr[0],p_arr[2]);
    for (int i = 0; i < 3; i++)
    {
-     cout<<p_arr[i].first<<" "<<p_arr[i].second<<endl; //printing of array pairs
+    cout<<p_arr[i].first<<" "<<p_arr[i].second<<endl; //printing of array pairs
    }
    
     return 0;
