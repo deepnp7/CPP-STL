@@ -2,8 +2,6 @@
 #include<vector>    //header 
 using namespace std;
 
-
-   
 int main() {
     vector<int> v;
     
