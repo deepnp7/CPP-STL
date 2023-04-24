@@ -19,7 +19,8 @@ int main()
     v.insert(v.begin()+1, 4);
     v[2] = 5;
     
-    for(auto x : v) {
+    for(auto x : v) 
+    e{
         cout << x << " ";
     }
     cout << endl;
