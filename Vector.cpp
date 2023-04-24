@@ -20,7 +20,7 @@ int main()
     v[2] = 5;
     
     for(auto x : v) 
-    e{
+    {
         cout << x << " ";
     }
     cout << endl;
