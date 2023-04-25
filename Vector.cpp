@@ -25,8 +25,8 @@ int main()
         cout << x << " ";
     }
     cout << endl;
-    
-    v.clear();
+  
+    v.clear(); // cl
     
     cout << "Size of vector: " << v.size() << endl;
     
