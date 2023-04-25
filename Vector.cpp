@@ -26,7 +26,7 @@ int main()
     }
     cout << endl;
   
-    v.clear(); // clear
+    v.clear(); // clearing
     
     cout << "Size of vector: " << v.size() << endl;
     
