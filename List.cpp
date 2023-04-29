@@ -19,7 +19,8 @@ int main() {
 
     // display the list elements using iterator
     list<int>::iterator itr;
-    for (itr = mylist.begin(); itr != mylist.end(); ++itr) {
+    for (itr = mylist.begin(); itr != mylist.end(); ++itr) 
+    {
         cout << *itr << " ";
     }
     cout << endl;
