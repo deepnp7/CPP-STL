@@ -23,7 +23,7 @@ int main() {
     {
       cout << *itr << " ";
     }
-    cout << endl;
+     cout << endl;
 
     // insert elements at a specific position
     itr = mylist.begin();
