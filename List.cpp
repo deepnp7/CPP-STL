@@ -40,7 +40,7 @@ int main() {
     // display the list elements again
     for (itr = mylist.begin(); itr != mylist.end(); ++itr) 
     {
-        cout << *itr << " ";
+       cout << *itr << " ";
     }
     cout << endl;
 
