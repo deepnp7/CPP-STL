@@ -21,7 +21,7 @@ int main() {
     list<int>::iterator itr;
     for (itr = mylist.begin(); itr != mylist.end(); ++itr) 
     {
-        cout << *itr << " ";
+       cout << *itr << " ";
     }
     cout << endl;
 
