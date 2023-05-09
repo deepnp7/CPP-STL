@@ -1,3 +1,4 @@
 
 #include<iostream>
-using name
+using namespaec sd;
+
