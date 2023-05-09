@@ -1,4 +1,4 @@
 
 #include<iostream>
-using namespaec sd;
+using namespace sd;
 
