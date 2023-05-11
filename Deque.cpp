@@ -50,7 +50,7 @@ int main()
     cout << "First element of deque: " << dq.front() << endl;
     cout << "Last element of deque: " << dq.back() << endl;
 
-    // checking if deque is empty or not
+     // checking if deque is empty or not
     if (dq.empty()) {
         cout << "Deque is empty" << endl;
     } else {
