@@ -1,4 +1,5 @@
 #include<iostream>
 #include<map>
 #include<string>
-using namepsace std
+using namepsace std;
+
