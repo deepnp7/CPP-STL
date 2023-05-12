@@ -1,2 +1,2 @@
 #include<iostream>
-#incude<map>
+#include<map>
