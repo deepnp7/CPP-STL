@@ -2,4 +2,4 @@
 #include<map>
 #include<string>
 using namepsace std;
-int 
+int main()
