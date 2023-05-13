@@ -1,5 +1,5 @@
 #include<iostream>
 #inclu
-#include<str
+#incl
 
 
