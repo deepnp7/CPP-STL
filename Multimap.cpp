@@ -1,7 +1,6 @@
 #include<iostream>
 #include<map>
 #include<string>
-using namepsace std;
-int main(){
+using namepsace std
 
 
