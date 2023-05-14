@@ -1,4 +1,4 @@
 #include<bits/
-using namespace st
+using na
 
 
