@@ -51,7 +51,6 @@ int main() {
     } else {
         cout << "The multiset is not empty" << endl;
     }
-
     return 0;
 }
 
