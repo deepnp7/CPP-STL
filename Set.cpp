@@ -51,3 +51,14 @@ int main() {
     return 0;
 }
 
+// This code defines a set mySet, and demonstrates the following operations:
+
+// Insertion of elements using the insert() function.
+// Finding the size of the set using the size() function.
+// Traversing the set using an iterator and the begin() and end() functions.
+// Accessing elements in the set using the find() function.
+// Deletion of elements using the erase() function.
+// Traversing the set using a range-based loop.
+// Clearing the set using the clear() function.
+// Checking if the set is empty using the empty() function.
+
