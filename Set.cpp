@@ -1,2 +1,3 @@
 #include<iostream>
-using manepsace 
+using namespace std;
+
