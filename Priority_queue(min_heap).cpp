@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-void printpriorityqueue(priority_queue<int,vector<int>,greater<int>> pq)
+void printpriorityqueue(priority_queue<int,vector<int>,greater<int>> pq) // to  make min heap
 {
     priority_queue<int,vector<int>,greater<int>> pq2=pq;
     while(!pq.empty())
