@@ -2,7 +2,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-void printpriorityqueue(priority_queue<int> pq)
+void printpriorityqueue(priority_queue<int> pq) // to make max heap
 {
     priority_queue<int> pq2=pq;
     while(!pq.empty())
