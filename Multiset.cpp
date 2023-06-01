@@ -16,7 +16,8 @@ int main() {
 
     // Find an element
     auto it = ms.find(20);
-    if (it != ms.end()) {
+    if (it != ms.end()) 
+    {
         cout << "20 found at position " << distance(ms.begin(), it) + 1 << endl;
     } else {
         cout << "20 not found in the multiset" << endl;
