@@ -22,7 +22,7 @@ int main() {
     } 
     else 
     {
-        cout << "20 not found in the multiset" << endl;
+       cout << "20 not found in the multiset" << endl;
     }
 
     // Erase an element
