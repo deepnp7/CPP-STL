@@ -32,7 +32,7 @@ int main() {
     cout << "Elements in the multiset are: ";
     for (auto itr = ms.begin(); itr != ms.end(); ++itr) 
     {
-        cout << *itr << " ";
+       cout << *itr << " ";
     }
     cout << endl;
 
