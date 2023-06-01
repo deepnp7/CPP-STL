@@ -30,7 +30,8 @@ int main() {
 
     // Iterate over all elements
     cout << "Elements in the multiset are: ";
-    for (auto itr = ms.begin(); itr != ms.end(); ++itr) {
+    for (auto itr = ms.begin(); itr != ms.end(); ++itr) 
+    {
         cout << *itr << " ";
     }
     cout << endl;
