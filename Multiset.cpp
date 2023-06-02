@@ -44,7 +44,6 @@ int main() {
     {
         cout << "The multiset is not empty" << endl;
     }
-
     // Get the size of the multiset
     cout << "The size of the multiset is " << ms.size() << endl;
 
