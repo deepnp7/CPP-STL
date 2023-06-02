@@ -35,7 +35,6 @@ int main() {
        cout << *itr << " ";
     }
     cout << endl;
-
     // Check if the multiset is empty
     if (ms.empty()) 
     {
