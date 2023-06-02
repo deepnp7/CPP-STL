@@ -53,7 +53,8 @@ int main() {
     ms.clear();
 
     // Check if the multiset is empty
-    if (ms.empty()) {
+    if (ms.empty()) 
+    {
         cout << "The multiset is empty" << endl;
     } else {
         cout << "The multiset is not empty" << endl;
