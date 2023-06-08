@@ -25,7 +25,8 @@ int main(){
 	}
 	
 	//alternatively:
-	for(auto itr1:hashmap){
+	for(auto itr1:hashmap)
+	{
 		cout<<itr1.first<<" "<<itr1.second<<"\n";
 	}
 	
