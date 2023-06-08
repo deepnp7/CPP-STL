@@ -19,7 +19,8 @@ int main() {
     {
         cout << "Element 20 is present in the set" << endl;
     }
-    else {
+    else 
+    {
         cout << "Element 20 is not present in the set" << endl;
     }
 
