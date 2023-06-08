@@ -19,7 +19,8 @@ int main(){
 	//print all key-value pairs of hashmap
 	unordered_map<string, int> :: iterator itr;
 	cout<<"All Key-Value pairs are: \n";
-	for(itr = hashmap.begin(); itr != hashmap.end(); itr++){
+	for(itr = hashmap.begin(); itr != hashmap.end(); itr++)
+	{
 		cout<<itr->first<<" "<<itr->second<<"\n";
 	}
 	
