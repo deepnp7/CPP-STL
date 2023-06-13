@@ -24,7 +24,8 @@ int main()
     if (s.empty()) 
     {
         cout << "Stack is empty" << endl;
-    } else {
+    } 
+    else {
         cout << "Stack is not empty" << endl;
     }
 
