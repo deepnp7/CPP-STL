@@ -32,7 +32,8 @@ int main()
 
     // print all elements of the stack
     cout << "Elements in the stack: ";
-    while (!s.empty()) {
+    while (!s.empty()) 
+    {
         cout << s.top() << " ";
         s.pop();
     }
