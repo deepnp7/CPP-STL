@@ -21,7 +21,8 @@ int main()
     cout << "Size of stack: " << s.size() << endl;
 
     // check if stack is empty
-    if (s.empty()) {
+    if (s.empty()) 
+    {
         cout << "Stack is empty" << endl;
     } else {
         cout << "Stack is not empty" << endl;
