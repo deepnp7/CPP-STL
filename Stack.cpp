@@ -2,7 +2,8 @@
 #include <stack>
 using namespace std;
 
-int main() {
+int main() 
+{
     stack<int> s; // create an empty stack of integers
     
     // push elements into the stack
