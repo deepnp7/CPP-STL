@@ -34,7 +34,8 @@ int main()
     if (q.empty()) 
     {
         cout << "Queue is empty" << endl;
-    } else 
+    } 
+    else 
     {
         cout << "Queue is not empty" << endl;
     }
