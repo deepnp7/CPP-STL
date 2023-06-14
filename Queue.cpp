@@ -31,7 +31,8 @@ int main()
     cout << "Size of queue: " << q.size() << endl;
 
     // Checking if the queue is empty or not
-    if (q.empty()) {
+    if (q.empty()) 
+    {
         cout << "Queue is empty" << endl;
     } else {
         cout << "Queue is not empty" << endl;
