@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
     // Creating a queue of integers
     queue<int> q;
 
