@@ -39,7 +39,6 @@ int main()
     {
         cout << "Queue is not empty" << endl;
     }
-
     return 0;
 }
 
