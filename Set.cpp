@@ -20,13 +20,14 @@ int main()
     cout << "Set elements: ";
     for (auto it = mySet.begin(); it != mySet.end(); it++) 
     {
-      cout << *it << " ";
+       cout << *it << " ";
     }
     cout << endl;
     
     // Accessing
     auto it = mySet.find(5);
-    if (it != mySet.end()) {
+    if (it != mySet.end()) 
+    {
         cout << "Found: " << *it << endl;
     } else {
         cout << "Not found" << endl;
