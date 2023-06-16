@@ -18,7 +18,8 @@ int main()
     
     // Traversal
     cout << "Set elements: ";
-    for (auto it = mySet.begin(); it != mySet.end(); it++) {
+    for (auto it = mySet.begin(); it != mySet.end(); it++) 
+    {
         cout << *it << " ";
     }
     cout << endl;
