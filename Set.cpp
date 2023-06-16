@@ -20,7 +20,7 @@ int main()
     cout << "Set elements: ";
     for (auto it = mySet.begin(); it != mySet.end(); it++) 
     {
-        cout << *it << " ";
+      cout << *it << " ";
     }
     cout << endl;
     
