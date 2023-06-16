@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
     set<int> mySet;
     
     // Insertion
