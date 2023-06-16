@@ -40,7 +40,8 @@ int main()
     
     // Traversal
     cout << "Set elements: ";
-    for (auto x : mySet) {
+    for (auto x : mySet) 
+    {
         cout << x << " ";
     }
     cout << endl;
