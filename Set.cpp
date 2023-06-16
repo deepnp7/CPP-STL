@@ -29,7 +29,8 @@ int main()
     if (it != mySet.end()) 
     {
         cout << "Found: " << *it << endl;
-    } else 
+    } 
+    else 
     {
         cout << "Not found" << endl;
     }
