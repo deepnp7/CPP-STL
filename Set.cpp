@@ -50,7 +50,8 @@ int main()
     mySet.clear();
     
     // Empty
-    if (mySet.empty()) {
+    if (mySet.empty()) 
+    {
         cout << "Set is empty" << endl;
     }
     
