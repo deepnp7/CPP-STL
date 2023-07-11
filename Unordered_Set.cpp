@@ -17,7 +17,7 @@ int main() {
     // Check if element is present in set
     if(mySet.find(20) != mySet.end()) 
     {
-        cout << "Element 20 is present in the set" << endl;
+       cout << "Element 20 is present in the set" << endl;
     }
     else 
     {
