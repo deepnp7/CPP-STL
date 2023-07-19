@@ -19,6 +19,7 @@ int main()
    int a[]={1,2,3};
    int b[]={2,3,4};   
    pair<int,int> p_arr[3];  //array of pairs
+    
    p_arr[0]={1,2};
    p_arr[1]={2,3};
    p_arr[2]={3,4};
