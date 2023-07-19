@@ -17,8 +17,7 @@ int main()
     cout<<p2.first<<" "<<p2.second.first<<" "<<p2.second.second<<" "<<endl;
 
    int a[]={1,2,3};
-   int b[]={2,3,4};
-    
+   int b[]={2,3,4};   
    pair<int,int> p_arr[3];  //array of pairs
    p_arr[0]={1,2};
    p_arr[1]={2,3};
