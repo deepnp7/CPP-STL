@@ -30,7 +30,7 @@ int main() {
     // Iterate over the elements in the set
     for(auto it = mySet.begin(); it != mySet.end(); ++it) 
     {
-      cout << *it << " ";
+       cout << *it << " ";
     }
     cout << endl;
 
